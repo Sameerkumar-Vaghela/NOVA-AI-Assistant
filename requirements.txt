@@ -1,0 +1,35 @@
+# Voice Processing
+speechrecognition==3.10.0
+pyttsx3==2.90
+pyaudio==0.2.13
+
+# HTTP Requests
+requests==2.31.0
+
+# PDF Handling
+PyPDF2==3.0.1
+fpdf==1.7.2
+
+# Email Support
+secure-smtplib==0.1.1
+
+# OS Notifications (for reminders)
+plyer==2.1.0
+
+# News Parsing (Optional, if using RSS or APIs)
+feedparser==6.0.11
+
+# Web Automation
+webbrowser  # built-in, no need to install
+
+# Core Utilities
+datetime  # built-in
+re        # built-in
+os        # built-in
+sys       # built-in
+time      # built-in
+json      # built-in
+
+pip install pipwin
+pipwin install pyaudio
+
