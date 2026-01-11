@@ -42,12 +42,6 @@ This AI-Powered Voice Assistant listens to your voice, processes the command usi
 > pip install <module_name>
 > ```
 
-## ⚙️ Setup Instructions
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/MrShalby/AI-Powered-Voice-Assistant.git
-cd AI-Powered-Voice-Assistant
 
 
 
